@@ -1,0 +1,16 @@
+{
+  "name": "client-management-system",
+  "version": "1.0.0",
+  "description": "A fullstack client management system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.6",
+    "express": "^4.22.3",
+    "sql.js": "^1.10.3"
+  }
+}
